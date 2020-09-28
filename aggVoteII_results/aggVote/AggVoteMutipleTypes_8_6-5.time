@@ -1,0 +1,76 @@
+experiment running time : 2020-08-06 19:38:19
+AggVote for multiple types of data
+regTime time when data tyeps : 1
+107.960157
+
+reporting time when data tyeps : 1
+327.339341
+
+regTime time when data tyeps : 2
+108.29880159999999
+
+reporting time when data tyeps : 2
+326.9913568
+
+regTime time when data tyeps : 3
+107.648464
+
+reporting time when data tyeps : 3
+330.2733318
+
+regTime time when data tyeps : 4
+107.972112
+
+reporting time when data tyeps : 4
+329.17170639200003
+
+regTime time when data tyeps : 5
+108.28455641
+
+reporting time when data tyeps : 5
+330.688171
+
+regTime time when data tyeps : 6
+107.96052540000001
+
+reporting time when data tyeps : 6
+332.104223
+
+regTime time when data tyeps : 7
+107.7408772
+
+reporting time when data tyeps : 7
+332.66067480000004
+
+AggVote for varying meters 
+regTime time meters : 20
+107.88267859999999
+
+reporting time with meters : 20
+327.9207788
+
+regTime time meters : 30
+161.58272440000002
+
+reporting time with meters : 30
+482.12837260000003
+
+regTime time meters : 40
+215.41092619999998
+
+reporting time with meters : 40
+637.1467908
+
+regTime time meters : 50
+269.59338260000004
+
+reporting time with meters : 50
+788.696072584
+
+regTime time meters : 60
+320.882017596
+
+reporting time with meters : 60
+942.7281227999999
+
+experiment running time : 2020-08-06 20:39:54

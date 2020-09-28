@@ -1,0 +1,77 @@
+experiment running time : 2020-08-05 00:12:36
+Boudia varying meter number :  
+reg  reg  reg  varying meter number : 20
+215.6877306
+
+rep rep rep  varying meter number : 20
+755.2303796
+
+reg  reg  reg  varying meter number : 30
+326.5002172
+
+rep rep rep  varying meter number : 30
+1127.254151204
+
+reg  reg  reg  varying meter number : 40
+445.368479
+
+rep rep rep  varying meter number : 40
+1505.786147
+
+reg  reg  reg  varying meter number : 50
+551.9072530000001
+
+rep rep rep  varying meter number : 50
+1873.5791688000002
+
+reg  reg  reg  varying meter number : 60
+662.1417404
+
+rep rep rep  varying meter number : 60
+2250.5863682
+
+
+Boudia multiple types of data 
+reg  reg  reg multiple types : 1
+221.6716214
+
+rep rep rep multiple types : 1
+769.6472148720001
+
+reg  reg  reg multiple types : 2
+221.073694816
+
+rep rep rep multiple types : 2
+1183.6494081919998
+
+reg  reg  reg multiple types : 3
+220.2763156
+
+rep rep rep multiple types : 3
+1603.5004042
+
+reg  reg  reg multiple types : 4
+222.0403546
+
+rep rep rep multiple types : 4
+2015.5152616
+
+reg  reg  reg multiple types : 5
+222.87497539999998
+
+rep rep rep multiple types : 5
+2424.0068224
+
+reg  reg  reg multiple types : 6
+221.70919800000001
+
+rep rep rep multiple types : 6
+2840.8720550000003
+
+reg  reg  reg multiple types : 7
+221.8222922
+
+rep rep rep multiple types : 7
+3263.8213874
+
+experiment running time : 2020-08-05 03:44:06

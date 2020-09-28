@@ -1,0 +1,165 @@
+experiment running time : 2020-08-09 17:28:09
+Varying SSSSSSSSSSSSSSSSSSSSSSSSSS
+reg reg reg with SSSSSSSSSSSSSSSSSSSSSSSSSS : 1
+191.58901740000002
+
+reporting time when SSSSSSSSSSSSSSSSSSSSSSSSSS : 1
+683.9425967999999
+
+reg reg reg with SSSSSSSSSSSSSSSSSSSSSSSSSS : 2
+191.460776
+
+reporting time when SSSSSSSSSSSSSSSSSSSSSSSSSS : 2
+680.118022
+
+reg reg reg with SSSSSSSSSSSSSSSSSSSSSSSSSS : 3
+189.724807
+
+reporting time when SSSSSSSSSSSSSSSSSSSSSSSSSS : 3
+681.907065002
+
+reg reg reg with SSSSSSSSSSSSSSSSSSSSSSSSSS : 4
+189.897130616
+
+reporting time when SSSSSSSSSSSSSSSSSSSSSSSSSS : 4
+679.2135947940001
+
+reg reg reg with SSSSSSSSSSSSSSSSSSSSSSSSSS : 5
+189.9083974
+
+reporting time when SSSSSSSSSSSSSSSSSSSSSSSSSS : 5
+679.5454527999999
+
+reg reg reg with SSSSSSSSSSSSSSSSSSSSSSSSSS : 6
+189.760412
+
+reporting time when SSSSSSSSSSSSSSSSSSSSSSSSSS : 6
+681.3998542
+
+reg reg reg with SSSSSSSSSSSSSSSSSSSSSSSSSS : 7
+190.1799584
+
+reporting time when SSSSSSSSSSSSSSSSSSSSSSSSSS : 7
+680.8847306
+
+groupSize groupSize groupSize 
+reg reg reg with groupSizer : 3
+126.4745926
+
+rep rep rep with groupSize : 3
+461.12032519
+
+reg reg reg with groupSizer : 4
+127.24015722200001
+
+rep rep rep with groupSize : 4
+461.16857441
+
+reg reg reg with groupSizer : 5
+126.8038976
+
+rep rep rep with groupSize : 5
+460.90826519999996
+
+reg reg reg with groupSizer : 6
+126.9104094
+
+rep rep rep with groupSize : 6
+461.092168
+
+reg reg reg with groupSizer : 7
+126.9285382
+
+rep rep rep with groupSize : 7
+460.6596056
+
+reg reg reg with groupSizer : 8
+126.2016284
+
+rep rep rep with groupSize : 8
+460.7334546
+
+reg reg reg with groupSizer : 9
+126.5996612
+
+rep rep rep with groupSize : 9
+460.7834954
+
+reg reg reg with groupSizer : 10
+127.09830120000001
+
+rep rep rep with groupSize : 10
+461.1151072
+
+meter number meter number meter number
+reg reg reg with meter number : 20
+126.51257340000001
+
+rep rep rep with meter number : 20
+460.6338068
+
+reg reg reg with meter number : 30
+190.0792146
+
+rep rep rep with meter number : 30
+680.6948866
+
+reg reg reg with meter number : 40
+253.2455844
+
+rep rep rep with meter number : 40
+901.0583052000001
+
+reg reg reg with meter number : 50
+316.7347126
+
+rep rep rep with meter number : 50
+1119.155215994
+
+reg reg reg with meter number : 60rep rep rep with mrep rep rep with meter number : 60
+1339.2597264
+
+meter number meter number meter number
+reg reg reg with type type : 1
+127.0549702
+
+rep rep rep with type type : 1
+460.84216219999996
+
+reg reg reg with type type : 2
+137.15914180000001
+
+rep rep rep with type type : 2
+620.2961996
+
+reg reg reg with type type : 3
+137.21544680000002
+
+rep rep rep with type type : 3
+632.9435614
+
+reg reg reg with type type : 4
+137.7921628
+
+rep rep rep with type type : 4
+627.9285216000001
+
+reg reg reg with type type : 5
+137.095194
+
+rep rep rep with type type : 5
+629.5440222000001
+
+reg reg reg with type type : 6
+136.7577026
+
+ype type : 6
+630.2311933999999
+
+reg reg reg with type type : 7
+137.0712562
+
+rep rep rep with type type : 7
+631.0687382000001
+
+experiment running time : 2020-08-09 20:21:35
